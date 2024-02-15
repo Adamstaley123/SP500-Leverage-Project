@@ -5,7 +5,7 @@ The current code is broken up into 5 blocks, which I describe below:
 - #2 - Data cleaning and wrangling
 - #3 - A repository for functions I use throughout the project
 - #4 - Begin analysis of the leveraged assets using the functions created in section 3. Using log scales, price performance, and rolling return graphs to help interpret results for several rules-based strategies. 
-- #5 - Analyze risk using Kde plots of price level change within the given years, and begin models to describe under what conditions the leveraged assets outperform the non-leveraged assets. I build a logistic regression model to classify returns and use k-means clustering to group return types. 
+- #5 - Analyze risk using Kde plots of price level change within the given years, and begin models to describe under what conditions the leveraged assets outperform the non-leveraged assets. I build a logistic regression model to classify returns and use k-means clustering to group return types.
 Further potential areas of research:
 - Build a more generalized approach that allows a machine learning model to determine its own "rules" to maximize returns and minimize losses.
 - Define a loss function for that model that focuses on avoiding rapid high-magnitude changes in price without loss of generality. 
