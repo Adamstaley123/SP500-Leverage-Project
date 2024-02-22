@@ -1,6 +1,6 @@
 # SP500-Leverage-Project
 Analyzing historic returns since 1980, I attempt to analyze and build models to understand the performance of Daily Leveraged Assets. 
-The current code is broken up into 5 blocks, which I describe below:
+The current code is broken up into 5 blocks described below:
 - #1 - Source credit and project info
 - #2 - Data cleaning and wrangling
 - #3 - A repository for functions I use throughout the project
